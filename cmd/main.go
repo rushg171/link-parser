@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/rushg171/go-link-parser"
+	"github.com/rushg171/link-parser"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/rushg171/go-link-parser
+module github.com/rushg171/link-parser
 
 go 1.22.0
 
